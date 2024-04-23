@@ -1,0 +1,16 @@
+﻿  P5A2.cpp
+c:\users\kamer001\desktop\uni\programmieren\für a 31.10.2016\p5a2\p5a2.cpp(79): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\kamer001\desktop\uni\programmieren\für a 31.10.2016\p5a2\p5a2.cpp(80): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\kamer001\desktop\uni\programmieren\für a 31.10.2016\p5a2\p5a2.cpp(91): warning C4553: "==": Operator hat keine Auswirkungen; ist "=" beabsichtigt?
+c:\users\kamer001\desktop\uni\programmieren\für a 31.10.2016\p5a2\p5a2.cpp(97): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\kamer001\desktop\uni\programmieren\für a 31.10.2016\p5a2\p5a2.cpp(98): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\kamer001\desktop\uni\programmieren\für a 31.10.2016\p5a2\p5a2.cpp(138): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\kamer001\desktop\uni\programmieren\für a 31.10.2016\p5a2\p5a2.cpp(139): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\kamer001\desktop\uni\programmieren\für a 31.10.2016\p5a2\p5a2.cpp(156): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\kamer001\desktop\uni\programmieren\für a 31.10.2016\p5a2\p5a2.cpp(157): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\kamer001\desktop\uni\programmieren\für a 31.10.2016\p5a2\p5a2.cpp(177): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\kamer001\desktop\uni\programmieren\für a 31.10.2016\p5a2\p5a2.cpp(178): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\kamer001\desktop\uni\programmieren\für a 31.10.2016\p5a2\p5a2.cpp(187): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\kamer001\desktop\uni\programmieren\für a 31.10.2016\p5a2\p5a2.cpp(188): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  P5A2.vcxproj -> C:\Users\kamer001\Desktop\Uni\Programmieren\Für a 31.10.2016\P5A2\Debug\P5A2.exe
+  P5A2.vcxproj -> C:\Users\kamer001\Desktop\Uni\Programmieren\Für a 31.10.2016\P5A2\Debug\P5A2.pdb (Partial PDB)
